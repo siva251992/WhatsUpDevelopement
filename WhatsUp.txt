@@ -9,3 +9,5 @@ Author:siva
 3.last seen code
 
 4. Attachment code
+
+5. Hide last seen

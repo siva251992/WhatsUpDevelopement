@@ -11,3 +11,7 @@ Author:siva
 4. Attachment code
 
 5. Hide last seen
+
+6. Add video call feature
+
+7. Add audi call feature
